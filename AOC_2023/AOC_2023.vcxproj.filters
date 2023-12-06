@@ -26,6 +26,12 @@
     <ClCompile Include="day1.cpp">
       <Filter>day1</Filter>
     </ClCompile>
+    <ClCompile Include="puzzleUtils.h">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="puzzleUtils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="io.h">

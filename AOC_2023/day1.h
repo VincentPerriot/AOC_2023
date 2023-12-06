@@ -1,6 +1,7 @@
 #pragma once
 
 class day1 {
-	void printPart1();
-	void printPart2();
+public:
+	static void printPart1();
+	static void printPart2();
 };
